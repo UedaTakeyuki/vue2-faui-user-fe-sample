@@ -1,1 +1,2 @@
 2022.12.15 create from scratch
+2022.12.16 working well with firebase@8.10.0 and firebaseui@5.0.0
