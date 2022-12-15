@@ -1,24 +1,7 @@
-# vue2-faui-user-fe-sample
+# history
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. vue create vue2-faui-user-fe-sample
+2. yarn add vue-router@3
+3. vue add vuetify
+4. yarn add firebase@8.10.0
+5. yarn add firebaseui
