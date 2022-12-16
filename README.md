@@ -11,3 +11,4 @@
 9. add chainWebpack to vue.config.js
 10. yarn remove vue, vuetify, firebase, firebaseui
 11. use LoginCDN, fbinitCDN, initializeCDN
+12. use Login, unuse fbinitCDN

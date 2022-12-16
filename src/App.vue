@@ -18,7 +18,7 @@
 
 <script>
 import {AccountRoutes as AccountRoutes} from 'vue2-faui-user-fe/account'    // If firebase is from npm or yarn
-import {LoginCDN as Login} from 'vue2-faui-user-fe/loginCDN'
+import {Login as Login} from 'vue2-faui-user-fe/login'
 import {Navbar} from 'vuetify-nav'
 
 export default {
