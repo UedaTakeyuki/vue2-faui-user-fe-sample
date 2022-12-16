@@ -4,8 +4,8 @@ import router from './router'
 import vuetify from './plugins/vuetify'
 
 // for vue2-faui-user-fe
-import fbinit from 'vue2-faui-user-fe/fbinit'
-import initialize from 'vue2-faui-user-fe/initialize'
+import fbinit from 'vue2-faui-user-fe/fbinitCDN'
+import initialize from 'vue2-faui-user-fe/initializeCDN'
 
 Vue.config.productionTip = false
 
