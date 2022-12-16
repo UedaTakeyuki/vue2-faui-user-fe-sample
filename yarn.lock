@@ -8979,7 +8979,7 @@ vue2-faui-user-fe@^2.0.11:
   resolved "https://registry.yarnpkg.com/vue2-faui-user-fe/-/vue2-faui-user-fe-2.0.11.tgz#8b3b021c00c20801665c8bcac38c22695c141240"
   integrity sha512-Yc/TbAEmmuftV+LAody3TlK4c9mvu+j9JdJiHVPpYbjQ13ZvLyokRjymlCLBf//9x79F6huvjGH+IEnDfPLCNA==
 
-vue@^2.6.10, vue@^2.6.11:
+vue@^2.6.10:
   version "2.7.14"
   resolved "https://registry.npmmirror.com/vue/-/vue-2.7.14.tgz#3743dcd248fd3a34d421ae456b864a0246bafb17"
   integrity sha512-b2qkFyOM0kwqWFuQmgd4o+uHGU7T+2z3T+WQp8UBjADfEv2n4FEMffzBmCKNP0IGzOEEfYjvtcC62xaSKeQDrQ==
@@ -9005,7 +9005,7 @@ vuetify-nav@^1.2.1:
   dependencies:
     qrcode-of-this-site "^1.0.5"
 
-vuetify@^2.0.0, vuetify@^2.6.0:
+vuetify@^2.0.0:
   version "2.6.13"
   resolved "https://registry.npmmirror.com/vuetify/-/vuetify-2.6.13.tgz#6c7dd1a43b5cee0e474fbe840f0fe86439d54502"
   integrity sha512-HhJi52IzhfrmWFwcYFUiA1GRIzz9smbR06Lj61Ml5HgD5PBcMiDywUnNPVid1VsXO4qWpBU6kO3O89uTxH1yzw==
