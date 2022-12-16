@@ -8974,10 +8974,10 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.npmmirror.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha512-4gDntzrifFnCEvyoO8PqyJDmguXgVPxKiIxrBKjIowvL9l+N66196+72XVYR8BBf1Uv1Fgt3bGevJ+sEmxfZzw==
 
-vue2-faui-user-fe@^2.0.9:
-  version "2.0.9"
-  resolved "https://registry.yarnpkg.com/vue2-faui-user-fe/-/vue2-faui-user-fe-2.0.9.tgz#1c1e8605d19cb7a67384a567080945236484393e"
-  integrity sha512-TtYd+CjQc+NdJ0eKF1PZQIwMMhbGpwDKWgED5oDBUFGeA2w1NodxjDJ48jTm/EUw1Es7AVflQuLrBCmvzL/3Cg==
+vue2-faui-user-fe@^2.0.11:
+  version "2.0.11"
+  resolved "https://registry.yarnpkg.com/vue2-faui-user-fe/-/vue2-faui-user-fe-2.0.11.tgz#8b3b021c00c20801665c8bcac38c22695c141240"
+  integrity sha512-Yc/TbAEmmuftV+LAody3TlK4c9mvu+j9JdJiHVPpYbjQ13ZvLyokRjymlCLBf//9x79F6huvjGH+IEnDfPLCNA==
 
 vue@^2.6.10, vue@^2.6.11:
   version "2.7.14"

@@ -4,12 +4,12 @@ import router from './router'
 import vuetify from './plugins/vuetify'
 
 // for vue2-faui-user-fe
-import fbinit from 'vue2-faui-user-fe/fbinit'
+//import fbinit from 'vue2-faui-user-fe/fbinit'
 import initialize from 'vue2-faui-user-fe/initialize'
 
 Vue.config.productionTip = false
 
-fbinit.fbinit()
+//fbinit.fbinit()
 
 // login accounts
 Vue.mixin({
