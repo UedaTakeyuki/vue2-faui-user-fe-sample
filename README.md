@@ -9,4 +9,5 @@
 7. yarn add vuetify-nav
 8. add link
 9. add chainWebpack to vue.config.js
-10. yarn remove vue, vuetify
+10. yarn remove vue, vuetify, firebase, firebaseui
+11. use LoginCDN, fbinitCDN, initializeCDN

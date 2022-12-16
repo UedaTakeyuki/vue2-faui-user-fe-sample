@@ -5,7 +5,7 @@ import vuetify from './plugins/vuetify'
 
 // for vue2-faui-user-fe
 //import fbinit from 'vue2-faui-user-fe/fbinit'
-import initialize from 'vue2-faui-user-fe/initialize'
+import initialize from 'vue2-faui-user-fe/initializeCDN'
 
 Vue.config.productionTip = false
 

@@ -7,9 +7,9 @@ module.exports = {
     // https://rinoguchi.net/2020/05/vue-firebase-reduce-bundle-size.html
     // https://stackoverflow.com/questions/66179210/how-to-externalize-a-lib-with-vue-cli
     config.externals({
-  //    firebase: 'firebase',
-  //    'firebase/auth': 'firebase',
-  //    firebaseui: 'firebaseui',
+      firebase: 'firebase',
+      'firebase/auth': 'firebase',
+      firebaseui: 'firebaseui',
       vue: 'Vue',
       vuetify: 'Vuetify',
       'vuetify/lib': 'Vuetify',
